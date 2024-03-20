@@ -15,13 +15,16 @@
         <p>Ceci est un exemple de contenu avec HTML et CSS.</p>
         <button>Cliquez ici pour plus d'infos</button>
         <p>Ceci est un exemple de contenu avec HTML et CSS.</p>
+
+       <p>Modification apporter par Ariellle</p>
+    
+
         <p>hi, c'est ihssane j'ai modifié le fichier </p>
 <--! c'est fati qui a resolu le conflit !!! -->
         <p>hi, on a un tp de devops</p>    
 
 	      <p>hi, Voici la modification ajouté pour simuler les problemes de conflit </p>
 	    
-
     </div>
 </body>
 </html>
